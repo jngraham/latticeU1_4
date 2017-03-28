@@ -1,0 +1,30 @@
+0 self xlink
+1 self ylink
+2 self tlink
+3 xprev xlink
+4 xprev ylink
+5 xprev tlink
+6 xnext ylink
+7 xnext tlink
+8 yprev xlink
+9 yprev ylink
+10 yprev tlink
+11 ynext xlink
+12 ynext tlink
+13 tprev xlink
+14 tprev ylink
+15 tprev tlink
+16 tnext xlink
+17 tnext ylink
+18 xnext yprev ylink
+19 xnext tprev tlink
+20 xprev yprev xlink
+21 xprev yprev ylink
+22 xprev ynext xlink
+23 xprev tprev xlink
+24 xprev tprev tlink
+25 xprev tnext xlink
+26 yprev tprev ylink
+27 yprev tprev tlink
+28 yprev tnext ylink
+29 ynext tprev tlink
